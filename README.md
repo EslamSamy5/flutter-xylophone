@@ -2,7 +2,7 @@
 
 <h3>Hi</h3>
 
-This my seventh Flutter app
+This my sixth Flutter app
 
 <h5>app can play sound like piano it's make beautiful sound you can try it</h5>
 <br>
